@@ -1,2 +1,3 @@
 # CPE232_Repolidon_1
-New Repository for CPE232, Had
+New Repository for CPE232, Had to start fresh again because of piling problems with IP configuration and Network
+-_-
